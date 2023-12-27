@@ -40,10 +40,11 @@ It Contains Documentation for Enchantmask NPM package
  - [![My Skills](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev) ViteJs
  - [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev) HTML
  - [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev) CSS
- - [![My Skills](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev) Solidity
+ - [![My Skills](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev) Javascript
+ - AlongSide with these other Applicable Frontend Libraries
 
 
-### Prerequisites
+### Prerequisites : 
 This is an example of how to list things you need to use the software and how to install them.
 
 * npm
