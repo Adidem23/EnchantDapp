@@ -24,19 +24,16 @@
 
 ## About The Project
 
- ##  EnchantDapp : Dapp Based on EnchantMask NPM Package
+##  EnchantDapp : Dapp Based on EnchantMask NPM Package
  This is Dapp Which Contains Documentation For NPM Package Called <strong>Enchantmask</strong> . It has also Demo Playground You Can Test How Features work in this package 
  
 ## Key Features:
 
-# 
-# 4.signMessage() :
-Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
+# 1. EnchantMask Dapp : 
+It is Built for Demonstration of Enchantmask NPM package
 
-# 5. getBlockNumber() : 
-Retrieve the latest block number on the Ethereum blockchain.
-
-... and Many More 
+# 2. EnchantMask Docs :
+It Contains Documentation for Enchantmask NPM package
 
 # Built With
 
