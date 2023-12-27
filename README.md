@@ -24,10 +24,9 @@
 
 ## About The Project
 
- ##  EnchantMask : Metamask Interaction based Npm Package
+ ##  EnchantDapp : Dapp Based on EnchantMask NPM Package
+ This is Dapp Which Contains Documentation For NPM Package Called <strong>Enchantmask</strong> . It has also Demo Playground You Can Test How Features work in this package 
  
-Enchantmask is an npm package designed to streamline interaction with MetaMask, providing developers with convenient methods to perform essential Ethereum-related tasks. By integrating Enchantmask into your project, you can effortlessly incorporate MetaMask functionality and enhance the user experience of your decentralized applications (DApps).
-
 ## Key Features:
 
 # 1.switchChain(): 
