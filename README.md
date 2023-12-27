@@ -37,7 +37,7 @@ It Contains Documentation for Enchantmask NPM package
 
 # Built With : 
 
- - [![My Skills](https://skillicons.dev/icons?i=vitejs&perline=3)](https://skillicons.dev) ViteJs
+ - [![My Skills](https://skillicons.dev/icons?i=vite&perline=3)](https://skillicons.dev) ViteJs
  - [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev) HTML
  - [![My Skills](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev) CSS
  - [![My Skills](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev) Solidity
