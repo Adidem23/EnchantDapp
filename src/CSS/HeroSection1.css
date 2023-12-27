@@ -1,0 +1,10 @@
+.bord{
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+@media(max-width:768px){
+
+    
+}
