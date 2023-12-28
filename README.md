@@ -68,6 +68,5 @@ npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occu
 
 ## Output and Screenshots and Video Output of Demo Dapp:
 
-## NPM Deployemnt Link: https://www.npmjs.com/package/enchantmask
 
 ## EnchantMask In Action  :
