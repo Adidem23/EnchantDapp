@@ -136,7 +136,16 @@ Follow The Installation manual and install dependencies
 <br />
 <br />
 <img width="956" alt="Screenshot 2023-12-29 165925" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/402c484c-b297-42d8-8f9e-c39a0fbaadd2">
+<br />
+<br />
+<br />
 
+# BlockNumber():
+<br/>
+<img width="960" alt="Screenshot 2023-12-29 165932" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/75542886-cf88-41d5-bb74-ef99b4c63dea">
+<br />
+<br />
+<br />
 
 
 ## EnchantMask In Action  :
