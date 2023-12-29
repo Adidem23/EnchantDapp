@@ -13,8 +13,8 @@ const Navbar = () => {
       </div>
 
       <ul className="nav-links">
-        <li><a href={"https://enchant-docs.vercel.app/"} target={"_blank"}>Docs</a></li>
-        <li><a href={"/Demo"}>Demo</a></li>
+        <li><a href={"https://enchant-docs.vercel.app/"}>Docs</a></li>
+        <Link to={"/dlink"}><li><a>Demo</a></li></Link>
         <li><a href="#">Help</a></li>
       </ul>
 
