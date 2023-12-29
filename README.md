@@ -84,7 +84,9 @@ Follow The Installation manual and install dependencies
 1. Frontend :
 
 <img width="959" alt="Screenshot 2023-12-29 165642" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/a993f6c7-baf4-442e-af95-e223307dbf5f">
-
+<br />
+<br />
+<br />
 <img width="959" alt="Screenshot 2023-12-29 165653" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/7cc7e4ac-15f5-41cf-9556-1ffa9b111f3c">
 
 
