@@ -69,9 +69,9 @@ Follow The Installation manual and install dependencies
    npm install / npm Install --force
    ```
 3 . Go to src Folder and run 
- ```sh
-npm run dev 
-```
+   ```sh
+  npm run dev 
+  ```
 
 ## Output:
 
