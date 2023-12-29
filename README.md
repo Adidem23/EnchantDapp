@@ -125,8 +125,17 @@ Follow The Installation manual and install dependencies
 # ConnectedAccount():
 <br />
 <img width="305" alt="Screenshot 2023-12-29 165852" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/37c24bdd-79c7-4dad-a800-33fe06ab8a10">
+<br />
+<br />
+<br />
 
-
+# SignMessage():
+<br/>
+<img width="957" alt="Screenshot 2023-12-29 165917" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/3b9c6399-0112-49d2-9945-6e08ff931442">
+<br />
+<br />
+<br />
+<img width="956" alt="Screenshot 2023-12-29 165925" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/402c484c-b297-42d8-8f9e-c39a0fbaadd2">
 
 
 
