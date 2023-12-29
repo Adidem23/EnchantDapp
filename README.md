@@ -119,7 +119,7 @@ Follow The Installation manual and install dependencies
 <br />
 
 5. ConnectedAccount():
-   <img width="305" alt="Screenshot 2023-12-29 165852" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/37c24bdd-79c7-4dad-a800-33fe06ab8a10">
+<img width="305" alt="Screenshot 2023-12-29 165852" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/37c24bdd-79c7-4dad-a800-33fe06ab8a10">
 
 
 
