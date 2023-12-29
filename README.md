@@ -75,7 +75,7 @@ Follow The Installation manual and install dependencies
     ```
 
 ## Production Deployments:
-- NPM Package :
+- NPM Package : https://www.npmjs.com/package/enchantmask
 - Documentation Site : 
 - Vercel Dapp Deployment : 
 
