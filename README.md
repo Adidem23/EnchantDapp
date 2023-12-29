@@ -66,8 +66,12 @@ Follow The Installation manual and install dependencies
 
 2. Run This Command in Terminal  
    ```sh
-npm install / npm Install --force
+   npm install / npm Install --force
    ```
+3 . Go to src Folder and run 
+ ```sh
+npm run dev 
+```
 
 ## Output:
 
