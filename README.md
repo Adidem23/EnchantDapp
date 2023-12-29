@@ -62,12 +62,14 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 Follow The Installation manual and install dependencies 
 
-1.Install Directly From NPM 
+1. Clone the repo
+
+2. Run This Command in Terminal  
    ```sh
-npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occurs)
+npm install / npm Install --force
    ```
 
-## Output and Screenshots and Video Output of Demo Dapp:
+## Output:
 
 
 ## EnchantMask In Action  :
