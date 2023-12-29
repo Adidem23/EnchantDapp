@@ -81,7 +81,7 @@ Follow The Installation manual and install dependencies
 
 ## Output:
 
-1. Frontend :
+# Frontend :
 
 <img width="959" alt="Screenshot 2023-12-29 165642" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/a993f6c7-baf4-442e-af95-e223307dbf5f">
 <br />
@@ -97,18 +97,28 @@ Follow The Installation manual and install dependencies
 <br />
 <img width="958" alt="Screenshot 2023-12-29 165720" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/39069a7c-779a-42a4-94e8-143134ab63b0">
 
-2. DemoDapp :
+# DemoDapp :
+<br />
+<br />
+<br />
 <img width="960" alt="Screenshot 2023-12-29 165816" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/9d471a07-34ca-4bf5-88c0-3515846ccd82">
 <br />
 <br />
 <br />
-3. SwitchChain() :
+
+# SwitchChain() :
+<br />
+<br />
+<br />
 <img width="958" alt="Screenshot 2023-12-29 165747" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/996a393c-8b97-4f5f-aa7c-830aab72f792">
 <br />
 <br />
 <br />
 
-4. EncryptionKey():
+# EncryptionKey():
+<br />
+<br />
+<br />
 <img width="960" alt="Screenshot 2023-12-29 165835" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/037eccce-ab25-48e0-b956-6ef0bd38b323">
 <br />
 <br />
@@ -118,7 +128,10 @@ Follow The Installation manual and install dependencies
 <br />
 <br />
 
-5. ConnectedAccount():
+# ConnectedAccount():
+<br />
+<br />
+<br />
 <img width="305" alt="Screenshot 2023-12-29 165852" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/37c24bdd-79c7-4dad-a800-33fe06ab8a10">
 
 
