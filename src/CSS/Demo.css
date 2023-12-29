@@ -94,3 +94,19 @@
 }
 
 /* This is End For SwitchChain */
+
+.NicheDiv{
+  width: fit-content;
+  margin-top:-50px;
+}
+.NicheDiv p{
+  color: white;
+  font-size: 2.3rem;
+  font-weight: bolder;
+  margin-top: 30px;
+}
+
+.Bapp{
+  display: flex;
+  flex-direction: column;
+}
