@@ -154,7 +154,13 @@ Follow The Installation manual and install dependencies
 <br />
 <br />
 
-# 
+# GasPrice():
+<br/>
+<img width="960" alt="Screenshot 2023-12-29 165948" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/ccb83d32-96af-48b6-b2d6-850884757a66">
+<br />
+<br />
+<br />
 
+... And Many More 
 
 ## EnchantMask In Action  :
