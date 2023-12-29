@@ -147,5 +147,14 @@ Follow The Installation manual and install dependencies
 <br />
 <br />
 
+# ChainId():
+<br/>
+<img width="960" alt="Screenshot 2023-12-29 165940" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/53e01f35-f429-414f-b18e-83cd9a831357">
+<br />
+<br />
+<br />
+
+# 
+
 
 ## EnchantMask In Action  :
