@@ -1,5 +1,6 @@
 import '../CSS/Navbar.css';
 import LOGO from '../assets/LOGO.png';
+import { Link } from 'react-router-dom';
 
 
 const Navbar = () => {
@@ -12,10 +13,9 @@ const Navbar = () => {
       </div>
 
       <ul className="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Docs</a></li>
-        <li><a href="#">DemoDapp</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href={"https://enchant-docs.vercel.app/"} target={"_blank"}>Docs</a></li>
+        <li><a href={"/Demo"}>Demo</a></li>
+        <li><a href="#">Help</a></li>
       </ul>
 
       <a href={"https://github.com/Adidem23/EnchantMask"}><button className="pushable">

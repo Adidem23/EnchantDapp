@@ -15,8 +15,9 @@ li {
 body {
     font-family: 'kanit', sans-serif;
     height: fit-content;
-    /* background-image: url('../assets/mesh.png'); */
-    background: linear-gradient(to bottom, #333333, #000000)
+    background: linear-gradient(to bottom, #333333, #000000);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .navbar {

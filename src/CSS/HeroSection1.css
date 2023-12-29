@@ -4,7 +4,7 @@
     width: fit-content;
 }
 
-@media(max-width:768px){
-
-    
+.bord img{
+    height: 500px;
+    width: 1300px;
 }
