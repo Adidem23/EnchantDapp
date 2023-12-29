@@ -100,6 +100,9 @@ Follow The Installation manual and install dependencies
 2. DemoDapp :
 <img width="960" alt="Screenshot 2023-12-29 165816" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/9d471a07-34ca-4bf5-88c0-3515846ccd82">
 
+3. SwitchChain() Method :
+<img width="958" alt="Screenshot 2023-12-29 165747" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/996a393c-8b97-4f5f-aa7c-830aab72f792">
+
 
 
 
