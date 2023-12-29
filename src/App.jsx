@@ -7,8 +7,7 @@ const App = () => {
     <>
     <Routes>
       <Route path='/' Component={ComposeAll} />
-      <Route path='/demo' Component={Demo} />
-
+      <Route path='/dlink' Component={Demo} />
     </Routes>
   
     </>
