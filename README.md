@@ -88,8 +88,14 @@ Follow The Installation manual and install dependencies
 <br />
 <br />
 <img width="959" alt="Screenshot 2023-12-29 165653" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/7cc7e4ac-15f5-41cf-9556-1ffa9b111f3c">
-
-
+<br />
+<br />
+<br />
+<img width="957" alt="Screenshot 2023-12-29 165711" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/448fdf1a-fc09-4a0b-9790-9eb55dfad174">
+<br />
+<br />
+<br />
+<img width="958" alt="Screenshot 2023-12-29 165720" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/39069a7c-779a-42a4-94e8-143134ab63b0">
 
 
 
