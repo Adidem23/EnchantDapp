@@ -16,7 +16,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-       <li><a herf="#Production-Deployments">Deployments</a></li>
+       <li><a href="#Production-Deployments">Deployments</a></li>
       </ul>
     </li>
     <li><a href="#output">Outputs</a></li>
