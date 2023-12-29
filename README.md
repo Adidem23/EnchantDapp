@@ -99,9 +99,22 @@ Follow The Installation manual and install dependencies
 
 2. DemoDapp :
 <img width="960" alt="Screenshot 2023-12-29 165816" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/9d471a07-34ca-4bf5-88c0-3515846ccd82">
-
+<br />
+<br />
+<br />
 3. SwitchChain() Method :
 <img width="958" alt="Screenshot 2023-12-29 165747" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/996a393c-8b97-4f5f-aa7c-830aab72f792">
+<br />
+<br />
+<br />
+
+4. Encryption Key():
+<img width="960" alt="Screenshot 2023-12-29 165835" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/037eccce-ab25-48e0-b956-6ef0bd38b323">
+<br />
+<br />
+<br />
+<img width="331" alt="Screenshot 2023-12-29 165845" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/f078fe6a-052d-4427-a8cf-7f6f101d3cf9">
+
 
 
 
