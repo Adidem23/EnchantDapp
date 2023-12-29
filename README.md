@@ -97,6 +97,8 @@ Follow The Installation manual and install dependencies
 <br />
 <img width="958" alt="Screenshot 2023-12-29 165720" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/39069a7c-779a-42a4-94e8-143134ab63b0">
 
+2. DemoDapp :
+<img width="960" alt="Screenshot 2023-12-29 165816" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/9d471a07-34ca-4bf5-88c0-3515846ccd82">
 
 
 
